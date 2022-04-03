@@ -1,6 +1,7 @@
 Unicode combining characters in Java
 
 Ref: https://www.youtube.com/watch?v=_mZBa3sqTrI  
+Ref: http://www.unicode.org/emoji/charts/full-emoji-list.html  
 
 Output:  
 Mötley Crüe  
